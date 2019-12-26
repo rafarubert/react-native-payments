@@ -1,5 +1,5 @@
 {
-  "name": "react-native-payments",
+  "name": "@exodus/react-native-payments",
   "version": "0.7.1",
   "scripts": {
     "run:packager": "cd examples/native && yarn run:packager",
